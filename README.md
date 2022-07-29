@@ -43,3 +43,10 @@ vrrp_instance VI_1 {
         }
 }
 ```
+
+Restart keepalived service:
+```bash
+sudo systemctl restart keepalived
+sudo systemctl status keepalived
+```
+
