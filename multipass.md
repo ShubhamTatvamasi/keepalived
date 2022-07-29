@@ -16,3 +16,8 @@ Check if VM got the IP:
 ```bash
 multipass ls
 ```
+
+Stop `vm-1`:
+```bash
+multipass stop vm-1
+```
