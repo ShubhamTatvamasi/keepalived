@@ -26,3 +26,12 @@ Restart `vm-1`:
 ```bash
 multipass start vm-1
 ```
+
+### Cleanup
+
+Delete VMs:
+```bash
+multipass delete vm-1 vm-2
+multipass purge
+```
+
