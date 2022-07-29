@@ -11,3 +11,8 @@ SSH into VM:
 multipass shell vm-1
 multipass shell vm-2
 ```
+
+Check if VM got the IP:
+```bash
+multipass ls
+```
