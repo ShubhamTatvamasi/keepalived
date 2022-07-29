@@ -21,3 +21,8 @@ Stop `vm-1`:
 ```bash
 multipass stop vm-1
 ```
+
+Restart `vm-1`:
+```bash
+multipass start vm-1
+```
